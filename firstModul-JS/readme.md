@@ -1,4 +1,4 @@
-# Курс 'Junior Frontend Developer'
+# Курс 'Junior Frontend Developer first modul - JavaScript'
 
 ### lessons-1 'HELLO WORLD'
 
@@ -51,3 +51,12 @@
 3. if else, switch case, ? :
 4. Логические операторы: || (ИЛИ), && (И) и ! (НЕ), ??
 5. Циклы. for, while, do while
+
+---
+
+### lessons-7 'Debug'
+
+Содержание урока:
+
+1. Самый популярный способ дебага - console.log.
+2. Дебаг с помощью breakpoints в VS Code и в Google Chrome.
