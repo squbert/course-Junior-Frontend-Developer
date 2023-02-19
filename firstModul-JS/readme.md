@@ -72,3 +72,5 @@
 
 1. Самый популярный способ дебага - console.log.
 2. Дебаг с помощью breakpoints в VS Code и в Google Chrome.
+
+---
