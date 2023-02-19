@@ -2,7 +2,7 @@
 
 ### first module 'Base JavaScript'
 
-- lessons 1 'Hello World'
+[lessons 1 'Hello World'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lessons-1)
 - lessons 2 'Syntax'
 - lessons 3 'Date types'
 - lessons 4 'Type conversion in JavaScript'
