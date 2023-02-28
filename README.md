@@ -13,3 +13,4 @@
 7. [lesson 7 'Debug'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-7)
 8. [lesson 8 'Functions'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-8)
 9. [lesson 9 'Arrays'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-9)
+10. [lesson 10 'Objects'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-10)
