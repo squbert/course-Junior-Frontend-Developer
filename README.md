@@ -14,3 +14,4 @@
 8. [lesson 8 'Functions'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-8)
 9. [lesson 9 'Arrays'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-9)
 10. [lesson 10 'Objects'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-10)
+11. [lesson 11 'Date and Time in JS'](https://github.com/squbert/course-Junior-Frontend-Developer/tree/master/firstModul-JS/lesson-11)
